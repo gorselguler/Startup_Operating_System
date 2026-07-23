@@ -1,16 +1,20 @@
-# React + Vite
+Startup Operating System (Startup OS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Everything founders need.
 
-Currently, two official plugins are available:
+**Startup Operating System** is a high-performance "SaaS Command Center" project that consolidates all the management, planning, and tracking tools modern entrepreneurs and teams need into a single screen.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Project Goal
+Startups typically use dozens of disconnected tools for task tracking, finance, CRM, and documentation. Startup OS aims to unify this scattered structure into a sleek, fast, and dark-mode supported single interface, delivering a true "Operating System" experience.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+This project is being built to scale, adhering to modern 2026 frontend standards:
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+*   **Core:** React (Vite)
+*   **Routing:** React Router DOM (for SPA architecture)
+*   **UI & Styling:** Tailwind CSS
+*   **Iconography:** Lucide React
+*   **State Management:** Zustand *(Planned)*
+*   **Interactions (Drag & Drop):** @dnd-kit/core *(Planned)*
